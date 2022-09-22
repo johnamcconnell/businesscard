@@ -1,3 +1,6 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bca4f6cf-02a2-4808-aceb-be500ca89634/deploy-status?branch=main)](https://app.netlify.com/sites/jmid/deploys)
+
+
 # Business Card Project
 
 ## About Scrimba
